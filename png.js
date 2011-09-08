@@ -166,7 +166,6 @@
         }
         this.pos += 4;
       }
-      return;
     }
     PNG.prototype.read = function(bytes) {
       var i, _results;
